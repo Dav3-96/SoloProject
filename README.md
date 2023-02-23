@@ -9,7 +9,15 @@
 
 ## Things included in this project
 - Working character creation.
-- Half working dialogue (Single, linear responses)
+- Branching dialogue.
 - Half working combat (Player and Enemies attack each other and will chase if attempting to run away)
 - NPC's
 - Camera control in the same aspect of the greats. i.e Baldur's Gate, Pillars of Eternity and Pathfinder.
+- Ground loot (Quick Loot window, may add loot bags from slain enemies)
+
+
+## To Do list
+- Inventory System
+- Finish Loot System
+- Character Sheet screen
+- Vertical Slice level (In Progress)
